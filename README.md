@@ -1,5 +1,6 @@
 QUICK MARKDOWN EXAMPLE
-http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html
+
+copied from http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html
 
 
 An h1 header

@@ -1,4 +1,4 @@
-TEST ZZMARKDOWN EXAMPLE - touched by minsuklee
+TEST MARKDOWN EXAMPLE - touched by minsuklee
 
 copied from http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html
 

@@ -1,8 +1,9 @@
 TEST MARKDOWN EXAMPLE - touched by minsuklee
---
 
 copied from http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html
 
+
+[Read our installation guide](#installation-guide)
 
 An h1 header
 ============
@@ -161,3 +162,9 @@ $$I = \int \rho R^{2} dV$$
 
 And note that you can backslash-escape any punctuation characters
 which you wish to be displayed literally, ex.: \`foo\`, \*bar\*, etc.
+
+#### Installation guide
+Here would be some installation instructions
+When GitHub transforms this markdown into html, the #### Installation guide line above will be represented as:
+
+<a href='#installation-guide' id='installation-guide' class='anchor' aria-hidden='true'>Installation guide</a>

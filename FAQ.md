@@ -2,7 +2,7 @@
 
 본 메뉴얼은 오픈핵(소프트웨어중심대학 오픈소스 해커톤)을 운영/진행했던 국민대학교 오픈소스소프트웨어 연구실에서 전국의 소프트웨어중심대학을 비롯한 각급 학교를 포함하여 해커톤을 진행하고자 하는 모든 단체 등을 위해 만든 매뉴얼 입니다.
 
-![CC BY-NC-SA](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png "CC BY-NC-SA")
+![CC BY-NC-SA](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png "CC BY-NC-SA"){: width="100" height="100"}
 이 문서는 크리에이티브 커먼즈 저작자표시 2.0 대한민국 라이선스에 따라 이용할 수 있습니다
 
 

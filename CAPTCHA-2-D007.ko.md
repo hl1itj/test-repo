@@ -10,9 +10,9 @@
 ```
 
 <br><br><br>
-<img src="IA.jpg" width="200px"></img> 
 ```
-아래에는 Innovation Academy x 회사
+아래에는 'Innovation Academy 로고 x 회사로고' (회사는 이 콘텐츠를 만든 회사)
+<img src="IA.jpg" width="200px"></img> 
 ```
 
 <br><br><br>

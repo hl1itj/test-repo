@@ -12,7 +12,7 @@
   'lo'는 locale 'ko', 'en', ...
 ```
 ```
-### 문서 작성법과 예시 Link 안내
+문서 작성법과 예시 Link 안내 :
 Project 정의, 역량 정의, 기술, 평가, 데이터 File 작성, 구성 가이드 문서 link
 관련 파일 들에 대한 링크들 (이 프로젝트와 관련된 모든 파일들 정의가 있는 repo의 link)
 ProjectTitle-N-fff-Pvvv.json : 프로젝트 정의 파일
@@ -22,8 +22,9 @@ ProjectTitle-N-Evvv.lo.md : 프로젝트 평가 가이드 파일
 ProjectTitle-N-Tvvv.tar.gz : 프로젝트 구현을 위한 데이터 파일
 ```
 ```
-아래에는 'Innovation Academy 로고 x 회사로고' (회사는 이 콘텐츠를 만든 회사)
+아래에는 'Innovation Academy 로고 x 회사 로고' (회사는 이 콘텐츠를 같이 만든 회사)
 ```
+
 <br>
 
 <img src="IA.jpg" width="200px"></img> 

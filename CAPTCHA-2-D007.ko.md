@@ -19,9 +19,10 @@
 
 ### CAPTCHA
 
-### 문서 버전 (vvv)
-한 줄짜리 release note
-이 버전의 full release note는 맨 뒤에 자세히 기록
+### Version 007 Release Note
+* 처음 작성한 버전이지만, 001은 쫌 그래서 정한 버전 번호
+<br>(여기에는 한 문장의 간단한 버전 설명)
+<br>(이 버전의 full release note는 이 문서 맨 뒤의 정식 release note에 자세히 기록)
 
 ### 저자 (Author) 목록
 (다음 형식으로 저자/리뷰어들을 나열합니다.)

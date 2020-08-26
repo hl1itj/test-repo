@@ -20,12 +20,12 @@
 ### CAPTCHA
 
 ### Version 007 : Release Note
-* 처음 작성한 버전이지만, 001은 쫌 그래서 정한 버전 번호
-
 ```
 여기에는 한 문장의 간단한 버전 설명만 두고
-각 버전의 full release note는 이 문서 맨 뒤의 정식 release note 섹션에서 자세히 기록
+각 버전의 full release-note는 이 문서 맨 뒤의 정식 release note 섹션에서 자세히 기록
 ```
+* 처음 작성한 버전이지만, 001은 쫌 그래서 그냥 정한 버전 번호
+
 
 ### 저자 (Author) 목록
 (다음 형식으로 저자/리뷰어들을 나열합니다.)

@@ -1,5 +1,6 @@
 ### CAPTCHA-2
-![logo](IA.jpg)
+
+<img src="IA.jpg" width="500px"></img> 
 
 [comment]: # (
   파일명 규칙 : ProjectTitle-N-Dvvv.lo.md : 프로젝트 내용 기술 파일,

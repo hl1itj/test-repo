@@ -1,4 +1,4 @@
-### CAPTCHA-2
+# CAPTCHA-2
 
 <img src="IA.jpg" width="500px"></img> 
 

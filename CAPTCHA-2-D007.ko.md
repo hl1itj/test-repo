@@ -31,8 +31,6 @@ ProjectTitle-N-Tvvv.tar.gz : 프로젝트 구현을 위한 데이터 파일
 
 <br>
 
-## CAPTCHA 개요
-
 ### Version 007 : Release Note
 ```
 여기에는 한 문장의 간단한 버전 설명만 두고
@@ -41,15 +39,17 @@ ProjectTitle-N-Tvvv.tar.gz : 프로젝트 구현을 위한 데이터 파일
 * 처음 작성한 버전이지만, 001은 쫌 그래서 그냥 정한 버전 번호
 
 
-### 저자 (Author) 목록
-(다음 형식으로 저자/리뷰어들을 나열합니다.)
-“성, 이름” 형식의 저자 이름 (기관일 때는 ‘,’ 없이 기관 이름),
-이메일 (email)
-위 저자/리뷰어의 이메일 주소
-소속 (affiliation)
-저자가 사람일 때 그 사람의 소속 기관
+### Authors
+* Lee, Minsuk, mail@domain.com, Innovation Academy
+* AI Superpower Lab, Superman Company
+```
+위 형식으로 저자/리뷰어들을 나열합니다.
+“성, 이름” 형식의 저자 이름 (기관일 때는 기관 이름)
+이메일 (email) : 위 저자/리뷰어의 이메일 주소
+소속 (affiliation) : 저자가 사람일 때 그 사람의 소속 기관
+```
 
-### 저작권
+### Copyrights
 
 <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png" width="80px"></img>
 이 문서는 크리에이티브 커먼즈 저작자표시 2.0 대한민국 라이선스에 따라
@@ -64,6 +64,9 @@ ProjectTitle-N-Tvvv.tar.gz : 프로젝트 구현을 위한 데이터 파일
 ```
 
 ## CAPTCHA
+
+## CAPTCHA 개요
+
 
 ### 프로젝트 스토리
 이 프로젝트가 왜 문제인지에 대한 story : 현장 이야기 (또는 주제에 따라서 SF 소설)

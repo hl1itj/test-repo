@@ -1,6 +1,6 @@
 # CAPTCHA-2
 ```
-이 부분은 프로젝트 콘텐츠 작성에 도움을 주기 위한 설명이므로 나중에 삭제하거나 커멘트로 변경.
+이 음영으로 표시된 부분은 프로젝트 콘텐츠 작성에 도움을 주기 위한 설명이므로 나중에 삭제하거나 커멘트로 변경.
 ```
 ```
 파일명 규칙 :
@@ -21,10 +21,11 @@ ProjectTitle-N-Dvvv.lo.md : 프로젝트 내용 기술 파일 (이 파일의 소
 ProjectTitle-N-Evvv.lo.md : 프로젝트 평가 가이드 파일
 ProjectTitle-N-Tvvv.tar.gz : 프로젝트 구현을 위한 데이터 파일
 ```
-<br>
 ```
 아래에는 'Innovation Academy 로고 x 회사로고' (회사는 이 콘텐츠를 만든 회사)
 ```
+<br>
+
 <img src="IA.jpg" width="200px"></img> 
 
 <br>

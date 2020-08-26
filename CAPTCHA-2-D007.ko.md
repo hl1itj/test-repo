@@ -1,5 +1,6 @@
-파일명 규칙 : ProjectTitle-N-Dvvv.lo.md : 프로젝트 내용 기술 파일
-실제 배포할 때는 ProjectTitle-N-Dvvv.lo.pdf 형태로 배포
+
+[comment]: # (파일명 규칙 : ProjectTitle-N-Dvvv.lo.md : 프로젝트 내용 기술 파일)
+[comment]: # (실제 배포할 때는 ProjectTitle-N-Dvvv.lo.pdf 형태로 배포)
 
 프로젝트 개요 (표지 성격으로)
 프로젝트 제목
@@ -54,7 +55,7 @@ ProjectTitle-N-Tvvv.tar.gz : 프로젝트 구현을 위한 데이터 파일
 제약 조건의 예:
 이런 입력/case는 실제로는 발생하기는 하지만 고려하지 않아도 되고
 초당 n개의 입력에 대하여 각 결과가 x초 이내 화면에 나와야 하고
-전체 메모리 사용량이 ~~MB를 넘으면 안되고
+전체 메모리 사용량이 ~MB를 넘으면 안되고
 입력 이미지의 해상도는 최소 이정도를 가정해야 하고
 x개의 동시접속이 가능해야 하고 그때 최대 지연은 어때야 하고
 ...

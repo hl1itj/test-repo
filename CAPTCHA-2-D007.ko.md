@@ -1,17 +1,22 @@
 # CAPTCHA-2
+```
+파일명 규칙 :
+ProjectTitle-N-Dvvv.lo.md : 프로젝트 내용 기술 파일
+(실제 배포할 때는 ProjectTitle-N-Dvvv.lo.pdf 형태로 배포)
+'ProjectTitle-N'이 실제 사용되는 프로젝트명이므로 유일하게 정함.
+  가운데 하나 이상 수정될 때. 커지는 개정판 버전 번호.
+'N'은 프로젝트의 난이도를 기준으로 가장 낮은 난이도가 1임.
+  이 과제는 2이므로 더 낮은 단계의 CAPTCHA-1이 있을 수 있다는 의미.
+'vvv'는 이 프로젝트의 정의 파일, 기술 파일, 평가 파일, 데이터 파일
+'lo'는 locale 'ko', 'en', ...
+)
+```
 
 <br><br><br>
-<img src="IA.jpg" width="300px"></img> 
-
-[comment]: # (
-  파일명 규칙 : ProjectTitle-N-Dvvv.lo.md : 프로젝트 내용 기술 파일,
-  실제 배포할 때는 ProjectTitle-N-Dvvv.lo.pdf 형태로 배포함.
-  'ProjectTitle-N 까지가 시스템에서 사용되는 프로젝트 이름이므로 유일하게 정해져야 함.
-  'vvv'는 이 프로젝트의 정의 파일, 기술 파일, 평가 파일, 데이터 파일 가운데
-  하나 이상이 수정될 때. 커지는 개정 번호
-  'N'은 프로젝트의 난이도를 기준으로 가장 낮은 난이도가 1임.
-  낮은 단계 프로젝트 두개를 더 생성할 계획이 있다면 N을 3이 되어야할 것임.
-)
+<img src="IA.jpg" width="200px"></img> 
+```
+아래에는 Innovation Academy x 회사
+```
 
 <br><br><br>
 

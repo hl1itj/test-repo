@@ -110,7 +110,7 @@ CAPTCHA는 인공지능 기술의 한계에 기반을 두고 있다. 예를 들�
 홍길동은 CAPTCHA 해독 프로그램을 만들어 해당 시스템에 로그인 하여 비트코인 지갑 주소 파일을 얻고자 한다.
 
 <br>
-<img src="CAPTCHA.jpg" width="300px"></img> 
+<img src="CAPTCHA.png" width="300px"></img> 
 <br>
 
 ### 프로젝트의 기술적 설명

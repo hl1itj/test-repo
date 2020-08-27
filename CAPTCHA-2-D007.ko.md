@@ -74,7 +74,7 @@ CC와 같은 오픈소스 저작권이 바람직한 형태이나,
 ```
 한 문단 정도의 프로젝트 개요
 ```
-CAPTCHA는 Completely Automated Public Turing test to tell Computers and Humans Apart의 약자로 사용자가 사람인지 컴퓨터인지를 구분하기 위한 방법이다. (CAPTure(d) + CHAracter, 에서 따왔다고도 한다.) 구체적으로는 사람은 인식하지만, 컴퓨터는 이해할 수 없는 이미지를 제시하고 맞춤으로서 컴퓨터에 의한 자동 로그인을 맞는 장치로 많이 사용되었다. 그러나, 인공지능/머신러닝 시대가 오지 않았는가? 다양한 CAPTCHA 이미지를 인식하여 정답을 맞추는 프로그램을 만들어보자.
+CAPTCHA는 사람은 인식하지만, 컴퓨터는 이해할 수 없는 이미지를 제시하고 맞춤으로서 컴퓨터에 의한 자동 로그인을 막는 장치로 많이 사용되었다. 그러나, 인공지능/머신러닝 시대가 오지 않았는가? 다양한 CAPTCHA 이미지를 인식하여 정답을 맞추는 프로그램을 만들어보자.
 
 ### 프로젝트 스토리
 ```
@@ -84,14 +84,14 @@ CAPTCHA는 Completely Automated Public Turing test to tell Computers and Humans 
 이 문제가 해결되면 사용자가 얻게 되는 가치는 무엇인지
 페르소나를 도입하여 비교적 기술적이지 않은 방식으로 스토리 텔링
 ```
-캡차는 광고성 게시물 방지, 아이디 자동생성 방지, 이메일 주소 보호, 온라인 선거, 계정 해킹 방지 등에 사용되며, 자동 프로그램으로 부당한 이득을 챙기거나 악용하는 사람들, 게시판의 불필요한 게시물 도배 등을 막을 수 있다.
+CAPTCHA는 Completely Automated Public Turing test to tell Computers and Humans Apart의 약자로 사용자가 사람인지 컴퓨터인지를 구분하기 위한 방법이다. (CAPTure(d) + CHAracter, 에서 따왔다고도 한다.) CAPTCHA는 사람은 인식하지만, 컴퓨터는 이해할 수 없는 이미지를 제시하고 맞춤으로서 컴퓨터(봇)에 의한 자동 로그인을 막는 방법으로 많이 사용되고 있다. CAPTCHA는 광고성 게시물 방지, 아이디 자동생성 방지, 이메일 주소 보호, 온라인 선거, 계정 해킹 방지 등에 사용되며, 자동 프로그램으로 부당한 이득을 챙기거나 악용하는 사람들, 게시판의 불필요한 게시물 도배 등을 막을 수 있다. 
 
 #### CAPTCHA의 한계 
 
-이미 문자 기반의 CAPTCHA 중 일부는 연구자들에 의해 뚫리고 있으며, 수학 문제 CAPTCHA, 오디오 CAPTCHA 등 다른 CAPTCHA 방식들도 머신러닝 기술의 발전으로 점점 뚫리고 있다. 이를 보완하기 위한 다른 방법들 역시 개발되고 있는데, 문자 이미지가 아닌 거리, 사물 이미지 기반의 CAPTCHA는 특정 문화에 익숙해져 있지 않으면 맞히기 어려운 문제를 낼 수도 있어 잘 정의된 타켓 사용자만 통과할 수 있도록 설계할 수도 있다.
+이미 문자 기반의 CAPTCHA 중 일부는 연구자들에 의해 뚫리고 있으며, 수학 문제 CAPTCHA, 오디오 CAPTCHA 등 다른 CAPTCHA 방식들도 머신러닝 기술의 발전으로 점점 뚫리고 있다. 이를 보완하기 위한 다른 방법들 역시 개발되고 있는데, 문자 이미지가 아닌 거리, 사물 이미지 기반의 CAPTCHA는 특정 문화에 익숙해져 있지 않으면 맞히기 어려운 문제를 낼 수도 있어 잘 정의된 타켓 사용자만 통과할 수 있도록 설계할 수도 있다. 또 이미지나 수학 문제 풀기 등에 의존하지 않고, 마우스의 이동 패턴 등을 추적하여 진짜 사람인지를 판별하는 변형된 방식(reCAPTCHA, noCAPTCHA)도 사용한다.
 
-#### reCAPTCHA
-(한글 wikipedia에서 전제) 오래 전에 제작된 종이 책들을 텍스트화하기 위해 OCR 프로그램을 사용하는데, 낙서나 얼룩, 헤짐 등의 방해요소만 있어도 OCR 프로그램은 텍스트를 제대로 인식하지 못한다. 이런 단어들은 사람이 하나하나 판독해야 하지만 수요가 적은 책들까지 일일이 입력하려면 노동력과 인건비가 많이 들어간다. 이를 해결하기 위해 CAPTCHA를 입력하는 수많은 사용자들의 힘을 빌리는 것이 바로 reCAPTCHA이다. reCAPTCHA는 다음과 같은 과정을 거친다.
+#### reCAPTCHA (original)
+(한글 wikipedia에서 전제) 오래 전에 제작된 종이 책들을 텍스트화하기 위해 OCR 프로그램을 사용하는데, 낙서나 얼룩, 헤짐 등의 방해요소만 있어도 OCR 프로그램은 텍스트를 제대로 인식하지 못한다. 이런 단어들은 사람이 하나하나 판독해야 하지만 수요가 적은 책들까지 일일이 입력하려면 노동력과 인건비가 많이 들어간다. 이를 해결하기 위해 CAPTCHA를 입력하는 수많은 사용자들의 힘을 빌리는 것이 바로 최초 버전의 reCAPTCHA이다. reCAPTCHA는 다음과 같은 과정을 거친다.
 
 1. reCAPTCHA는 두 개의 암호코드를 제시한다. 하나는 컴퓨터가 이미 답을 알고 있는 단어이지만 다른 하나는 서적을 텍스트화하는 도중 OCR이 인식하지 못한 단어이다.
 1. 사용자가 두 단어를 모두 입력하면 컴퓨터는 이미 답을 아는 단어로 대상이 사람인지를 확인한다.
@@ -167,6 +167,7 @@ input과 output
 이 내용은 아래 online forum에 'resource'로 옮겨지고, 학습 커뮤니티에 의해 개선되어 감.
 ```
 * [CAPTCHA, Wikipedia](https://en.wikipedia.org/wiki/CAPTCHA) : CAPTCHA에 대한 일반적인 이해, [CAPTCHA, 한글 위키피디아](https://ko.wikipedia.org/wiki/CAPTCHA)
+* [reCAPTCHA, Wikipedia](https://en.wikipedia.org/wiki/ReCAPTCHA) : reCATPCHA에 관한 이해
 * [Turing Machine, Wikipedia](https://en.wikipedia.org/wiki/Turing_machine) : CAPTCHA가 추구하는 목표를 수학적으로 정의한 Turing Machine에 대한 소개, [튜링 기계, 한글 위키피디아](https://ko.wikipedia.org/wiki/튜링_기계)
 * [Tensorflow Tutotials](https://www.tensorflow.org/tutorials?hl=ko) : Tensorflow를 초보부터 높은 단계에 이르기 까지 배울 수 있는 곳.
 * [모두를 위한 딥러닝](https://www.inflearn.com/course/기본적인-머신러닝-딥러닝-강좌#) : 머신 러닝과 딥러닝에 대해 더 이해하고 본인들의 문제를 Tensorflow를 이용하여 풀 수 있게 도와주는 동영상 강의. 이 강좌는 수학이나 컴퓨터 공학적인 지식이 없어도 어렵지 않게 볼 수 있음.

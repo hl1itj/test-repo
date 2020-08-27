@@ -134,9 +134,15 @@ input과 output
 
 ### 이 프로젝트 수행을 위한 학습 리소스
 ```
-아래 online forum에 'resource'에 있는 내용을 소개
+콘텐츠 만드는 단계에서는 아래와 같이 학습 Resource 링크와 간단한 설명 (즉, 시스템 입력용)을 적어주세요.
+이 내용은 아래 online forum에 'resource'로 옮겨지고, 학습 커뮤니티에 의해 개선되어 감.
 ```
-* 이 과제를 수행하기 위한 학습 
+* [CAPTCHA, Wikipedia](https://en.wikipedia.org/wiki/CAPTCHA) : CAPTCHA에 대한 일반적인 이해, [CAPTCHA, 한글 위키피디아](https://ko.wikipedia.org/wiki/CAPTCHA)
+* [Turing Machine, Wikipedia](https://en.wikipedia.org/wiki/Turing_machine) : CAPTCHA가 추구하는 목표를 수학적으로 정의한 Turing Machine에 대한 소개, [튜링 기계, 한글 위키피디아](https://ko.wikipedia.org/wiki/튜링_기계)
+* [Tensorflow Tutotials](https://www.tensorflow.org/tutorials?hl=ko) : Tensorflow를 초보부터 높은 단계에 이르기 까지 배울 수 있는 곳.
+* [모두를 위한 딥러닝](https://www.inflearn.com/course/기본적인-머신러닝-딥러닝-강좌#) : 머신 러닝과 딥러닝에 대해 더 이해하고 본인들의 문제를 Tensorflow를 이용하여 풀 수 있게 도와주는 동영상 강의. 이 강좌는 수학이나 컴퓨터 공학적인 지식이 없어도 어렵지 않게 볼 수 있음.
+* [MNIST Tutorial](https://tensorflowkorea.gitbooks.io/tensorflow-kr/content/g3doc/tutorials/mnist/beginners/) : 간단한 컴퓨터 비전 데이터셋인 MNIST를 이용하여 손으로 쓴 글자를 인식하는 과정을 설명
+* [Tensorflow KR 페이스북 그룹](https://www.facebook.com/groups/TensorFlowKR) : tensorflow를 학습하거나, tensorflow, 다른 Machine Learning 도구에 관한 연구, 응용 제작을 하는 분들의 모임. 질의 응답이 매우 활발함
 
 ### 프로젝트를 수행/리뷰/평가/멘토링을 위한 모든 정보 online Forum
 
@@ -169,15 +175,7 @@ o 이 프로젝트에 대한 이전 멘토링/평가 토론 (*** = mentor)
 o 이 프로젝트를 같은 하고 있는 (했던) 사람들 (*** = peer)
  - 여기 목록에 있는 동료, 선배와 소통하고 평가 요청, 협력 
 ```
-```
-콘텐츠 만드는 단계에서는 아래와 같이 학습 Resource 링크와 간단한 설명 (즉, 시스템 입력용)을 적어주세요.
-```
-* [CAPTCHA, Wikipedia](https://en.wikipedia.org/wiki/CAPTCHA) : CAPTCHA에 대한 일반적인 이해, [CAPTCHA, 한글 위키피디아](https://ko.wikipedia.org/wiki/CAPTCHA)
-* [Turing Machine, Wikipedia](https://en.wikipedia.org/wiki/Turing_machine) : CAPTCHA가 추구하는 목표를 수학적으로 정의한 Turing Machine에 대한 소개, [튜링 기계, 한글 위키피디아](https://ko.wikipedia.org/wiki/튜링_기계)
-* [Tensorflow Tutotials](https://www.tensorflow.org/tutorials?hl=ko) : Tensorflow를 초보부터 높은 단계에 이르기 까지 배울 수 있는 곳.
-* [모두를 위한 딥러닝](https://www.inflearn.com/course/기본적인-머신러닝-딥러닝-강좌#) : 머신 러닝과 딥러닝에 대해 더 이해하고 본인들의 문제를 Tensorflow를 이용하여 풀 수 있게 도와주는 동영상 강의. 이 강좌는 수학이나 컴퓨터 공학적인 지식이 없어도 어렵지 않게 볼 수 있음.
-* [MNIST Tutorial](https://tensorflowkorea.gitbooks.io/tensorflow-kr/content/g3doc/tutorials/mnist/beginners/) : 간단한 컴퓨터 비전 데이터셋인 MNIST를 이용하여 손으로 쓴 글자를 인식하는 과정을 설명
-* [Tensorflow KR 페이스북 그룹](https://www.facebook.com/groups/TensorFlowKR) : tensorflow를 학습하거나, tensorflow, 다른 Machine Learning 도구에 관한 연구, 응용 제작을 하는 분들의 모임. 질의 응답이 매우 활발함
+
 
 ## Release Note
 ```

@@ -20,6 +20,8 @@ ProjectTitle-N-Cnnn.json : 프로젝트 역량 정의 파일
 ProjectTitle-N-Dvvv.lo.md : 프로젝트 내용 기술 파일 (이 파일의 소스)
 ProjectTitle-N-Evvv.lo.md : 프로젝트 평가 가이드 파일
 ProjectTitle-N-Tvvv.tar.gz : 프로젝트 구현을 위한 데이터 파일
+:: https://docs.google.com/document/d/1fC-ffIkFAMhqbFsMa5rqdRa3ncyN-NsVuuDaOorD9eY/edit?usp=sharing 참조
+
 ```
 ```
 아래에는 'Innovation Academy 로고 x 회사 로고' (회사는 이 콘텐츠를 같이 만든 회사를 의미)

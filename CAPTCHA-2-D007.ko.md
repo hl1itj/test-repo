@@ -192,15 +192,15 @@ input과 output
 콘텐츠 만드는 단계에서는 아래와 같이 학습 Resource 링크와 간단한 설명 (즉, 시스템 입력용)을 적어주세요.
 이 내용은 아래 online forum에 'resource'로 옮겨지고, 학습 커뮤니티에 의해 개선되어 감.
 ```
-* [CAPTCHA, Wikipedia](https://en.wikipedia.org/wiki/CAPTCHA) : CAPTCHA에 대한 일반적인 이해, [CAPTCHA, 한글 위키피디아](https://ko.wikipedia.org/wiki/CAPTCHA)
-* [reCAPTCHA, Wikipedia](https://en.wikipedia.org/wiki/ReCAPTCHA) : reCATPCHA에 관한 이해
-* [Turing Machine, Wikipedia](https://en.wikipedia.org/wiki/Turing_machine) : CAPTCHA가 추구하는 목표를 수학적으로 정의한 Turing Machine에 대한 소개, [튜링 기계, 한글 위키피디아](https://ko.wikipedia.org/wiki/튜링_기계)
+* [CAPTCHA, Wikipedia](https://en.wikipedia.org/wiki/CAPTCHA) : CAPTCHA에 대한 일반적인 이해 ([CAPTCHA, 한글 위키피디아](https://ko.wikipedia.org/wiki/CAPTCHA)).
+* [reCAPTCHA, Wikipedia](https://en.wikipedia.org/wiki/ReCAPTCHA) : reCATPCHA에 관한 이해.
+* [Turing Machine, Wikipedia](https://en.wikipedia.org/wiki/Turing_machine) : CAPTCHA가 추구하는 목표를 수학적으로 정의한 Turing Machine에 대한 소개 ([튜링 기계, 한글 위키피디아](https://ko.wikipedia.org/wiki/튜링_기계)).
 * [Tensorflow Tutotials](https://www.tensorflow.org/tutorials?hl=ko) : Tensorflow를 초보부터 높은 단계에 이르기 까지 배울 수 있는 곳.
 * [모두를 위한 딥러닝](https://www.inflearn.com/course/기본적인-머신러닝-딥러닝-강좌#) : 머신 러닝과 딥러닝에 대해 더 이해하고 본인들의 문제를 Tensorflow를 이용하여 풀 수 있게 도와주는 동영상 강의. 이 강좌는 수학이나 컴퓨터 공학적인 지식이 없어도 어렵지 않게 볼 수 있음.
-* [MNIST Tutorial](https://tensorflowkorea.gitbooks.io/tensorflow-kr/content/g3doc/tutorials/mnist/beginners/) : 간단한 컴퓨터 비전 데이터셋인 MNIST를 이용하여 손으로 쓴 글자를 인식하는 과정을 설명
-* [Tensorflow KR 페이스북 그룹](https://www.facebook.com/groups/TensorFlowKR) : tensorflow를 학습하거나, tensorflow, 다른 Machine Learning 도구에 관한 연구, 응용 제작을 하는 분들의 모임. 질의 응답이 매우 활발함
+* [MNIST Tutorial](https://tensorflowkorea.gitbooks.io/tensorflow-kr/content/g3doc/tutorials/mnist/beginners/) : 간단한 컴퓨터 비전 데이터셋인 MNIST를 이용하여 손으로 쓴 글자를 인식하는 과정을 설명.
+* [Tensorflow KR 페이스북 그룹](https://www.facebook.com/groups/TensorFlowKR) : tensorflow를 학습하거나, tensorflow, 다른 Machine Learning 도구에 관한 연구, 응용 제작을 하는 분들의 모임. 질의 응답이 매우 활발함.
 * [Machine Learning Yearning](https://www.deeplearning.ai/machine-learning-yearning/) : 앤드유 응 교수의 ML 프로젝트를 진행할 때 고려해야 할 우선순위, 성능에 대한 고려 사항 (딥러닝 기술 자체를 다룬 책은 아니라 필독). PDF 버전을 인터넷에서 쉽게 구할 수 있음.
-[AI Hub](http://www.aihub.or.kr/) : AI 학습용 데이터가 모여있는 곳
+* [AI Hub](http://www.aihub.or.kr/) : AI 학습용 데이터가 모여있는 곳.
 
 ### 프로젝트를 수행/리뷰/평가/멘토링을 위한 모든 정보 online Forum
 
@@ -210,7 +210,7 @@ input과 output
 학습 시스템에서 자동으로 링크들이 생성되어. 동료학습을 드라이브.
 https://prj.innoaca.kr/forum/ProejectTitle/N/*** 에서
 *** 에 따라 다음 링크들이 자동으로 생성됨 
-(실제로는 모든 링크가 독립적인 페이지로 만들어지는 않을 수도 있고 태그를 통한 검색시스템으로 운영됨)
+(실제로는 모든 링크가 독립적인 페이지로 만들어지는 않을 수도 있고 태그를 통한 검색시스템으로 운영될 수도 있음)
 o 학습 Resource 링크 (*** = resource)
   - 학습자를 위한 자료, 과제 동기부여를 위한 자료들. 초기에는 위 섹션 '이 프로제트 수행을 위한 학습 리소스'에 제시된 자료들을 forum의 상단에 배치하고, 학습자들이 늘어나거나, 시장이 바뀜에 따라, 새로운 리소스 추가됨. 그리고 점차 학습자들에게 도움이 되는 정도/선호도에 따라 자동으로 노출 순위 조절
   - 태그로 리소스 분류 관리

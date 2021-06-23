@@ -30,7 +30,7 @@
 
 # Debug files
 *.dSYM/
+up
 
 # etc
 .DS_Store
-
